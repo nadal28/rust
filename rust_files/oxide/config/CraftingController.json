@@ -180,7 +180,7 @@
       "defaultskinid": 0
     },
     "ammo.shotgun": {
-      "canCraft": false,
+      "canCraft": true,
       "canResearch": true,
       "useCrafteRateMultiplier": true,
       "craftTime": 3.0,
@@ -188,7 +188,7 @@
       "defaultskinid": 0
     },
     "ammo.shotgun.fire": {
-      "canCraft": false,
+      "canCraft": true,
       "canResearch": true,
       "useCrafteRateMultiplier": true,
       "craftTime": 3.0,
@@ -196,7 +196,7 @@
       "defaultskinid": 0
     },
     "ammo.shotgun.slug": {
-      "canCraft": false,
+      "canCraft": true,
       "canResearch": true,
       "useCrafteRateMultiplier": true,
       "craftTime": 3.0,
@@ -3140,7 +3140,7 @@
       "defaultskinid": 0
     },
     "lowgradefuel": {
-      "canCraft": false,
+      "canCraft": true,
       "canResearch": true,
       "useCrafteRateMultiplier": true,
       "craftTime": 5.0,
@@ -3564,7 +3564,7 @@
       "defaultskinid": 0
     },
     "weapon.mod.silencer": {
-      "canCraft": false,
+      "canCraft": true,
       "canResearch": true,
       "useCrafteRateMultiplier": true,
       "craftTime": 30.0,
