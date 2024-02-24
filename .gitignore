@@ -1,4 +1,5 @@
 rust_files/*
 
 !rust_files/runds.sh
-!rust_files/server
+!rust_files/server/feudal/cfg
+!rust_files/server/feudal/*.db
