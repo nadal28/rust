@@ -1,2 +1,3 @@
 #!/bin/dash
-rust_files/runds.sh
+cd rust_files
+./runds.sh
