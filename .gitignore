@@ -1,6 +1,11 @@
 rust_files/*
 
 !rust_files/runds.sh
+!rust_files/oxide
+
+rust_files/oxide/*
+
+!rust_files/oxide/config
 !rust_files/server
 
 rust_files/server/feudal/*

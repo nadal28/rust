@@ -180,7 +180,7 @@
       "defaultskinid": 0
     },
     "ammo.shotgun": {
-      "canCraft": true,
+      "canCraft": false,
       "canResearch": true,
       "useCrafteRateMultiplier": true,
       "craftTime": 3.0,
@@ -188,7 +188,7 @@
       "defaultskinid": 0
     },
     "ammo.shotgun.fire": {
-      "canCraft": true,
+      "canCraft": false,
       "canResearch": true,
       "useCrafteRateMultiplier": true,
       "craftTime": 3.0,
@@ -196,7 +196,7 @@
       "defaultskinid": 0
     },
     "ammo.shotgun.slug": {
-      "canCraft": true,
+      "canCraft": false,
       "canResearch": true,
       "useCrafteRateMultiplier": true,
       "craftTime": 3.0,
@@ -3564,7 +3564,7 @@
       "defaultskinid": 0
     },
     "weapon.mod.silencer": {
-      "canCraft": true,
+      "canCraft": false,
       "canResearch": true,
       "useCrafteRateMultiplier": true,
       "craftTime": 30.0,
@@ -3580,7 +3580,7 @@
       "defaultskinid": 0
     },
     "rifle.ak": {
-      "canCraft": true,
+      "canCraft": false,
       "canResearch": true,
       "useCrafteRateMultiplier": true,
       "craftTime": 45.0,
@@ -3588,7 +3588,7 @@
       "defaultskinid": 0
     },
     "rifle.ak.ice": {
-      "canCraft": true,
+      "canCraft": false,
       "canResearch": true,
       "useCrafteRateMultiplier": true,
       "craftTime": 45.0,
@@ -3612,7 +3612,7 @@
       "defaultskinid": 0
     },
     "rifle.bolt": {
-      "canCraft": true,
+      "canCraft": false,
       "canResearch": true,
       "useCrafteRateMultiplier": true,
       "craftTime": 45.0,
@@ -3676,7 +3676,7 @@
       "defaultskinid": 0
     },
     "shotgun.double": {
-      "canCraft": true,
+      "canCraft": false,
       "canResearch": true,
       "useCrafteRateMultiplier": true,
       "craftTime": 40.0,
@@ -3732,7 +3732,7 @@
       "defaultskinid": 0
     },
     "hmlmg": {
-      "canCraft": true,
+      "canCraft": false,
       "canResearch": true,
       "useCrafteRateMultiplier": true,
       "craftTime": 30.0,
@@ -3780,7 +3780,7 @@
       "defaultskinid": 0
     },
     "smg.mp5": {
-      "canCraft": true,
+      "canCraft": false,
       "canResearch": true,
       "useCrafteRateMultiplier": true,
       "craftTime": 30.0,
@@ -3812,7 +3812,7 @@
       "defaultskinid": 0
     },
     "shotgun.waterpipe": {
-      "canCraft": true,
+      "canCraft": false,
       "canResearch": true,
       "useCrafteRateMultiplier": true,
       "craftTime": 30.0,
@@ -3820,7 +3820,7 @@
       "defaultskinid": 0
     },
     "pistol.python": {
-      "canCraft": true,
+      "canCraft": false,
       "canResearch": true,
       "useCrafteRateMultiplier": true,
       "craftTime": 30.0,
@@ -3884,7 +3884,7 @@
       "defaultskinid": 0
     },
     "shotgun.pump": {
-      "canCraft": true,
+      "canCraft": false,
       "canResearch": true,
       "useCrafteRateMultiplier": true,
       "craftTime": 40.0,
@@ -3892,7 +3892,7 @@
       "defaultskinid": 0
     },
     "pistol.semiauto": {
-      "canCraft": true,
+      "canCraft": false,
       "canResearch": true,
       "useCrafteRateMultiplier": true,
       "craftTime": 30.0,
@@ -3900,7 +3900,7 @@
       "defaultskinid": 0
     },
     "rifle.semiauto": {
-      "canCraft": true,
+      "canCraft": false,
       "canResearch": true,
       "useCrafteRateMultiplier": true,
       "craftTime": 30.0,
@@ -3908,7 +3908,7 @@
       "defaultskinid": 0
     },
     "smg.2": {
-      "canCraft": true,
+      "canCraft": false,
       "canResearch": true,
       "useCrafteRateMultiplier": true,
       "craftTime": 30.0,
@@ -3964,7 +3964,7 @@
       "defaultskinid": 0
     },
     "smg.thompson": {
-      "canCraft": true,
+      "canCraft": false,
       "canResearch": true,
       "useCrafteRateMultiplier": true,
       "craftTime": 30.0,
