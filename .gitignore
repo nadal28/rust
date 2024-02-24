@@ -1,3 +1,4 @@
 rust_files/*
 
 !rust_files/runds.sh
+!rust_files/server
