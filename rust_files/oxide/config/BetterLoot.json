@@ -1,6 +1,6 @@
 {
   "Generic": {
-    "blueprintProbability": 0,
+    "blueprintProbability": 0.0,
     "listUpdatesOnLoaded": true,
     "removeStackedContainers": false,
     "WatchedPrefabs": [
@@ -72,6 +72,9 @@
   },
   "Rarity": {
     "Override": {
+      "autoturret": 4,
+      "lmg.m249": 4,
+      "targeting.computer": 3
     }
   }
 }
