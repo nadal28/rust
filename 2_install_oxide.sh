@@ -3,6 +3,6 @@ wget https://github.com/OxideMod/Oxide.Rust/releases/latest/download/Oxide.Rust-
 unzip -o -d rust_files/ Oxide.Rust-linux.zip
 rm Oxide.Rust-linux.zip
 
-wget https://umod.org/plugins/CraftingController.cs -O rust_files/oxide/plugins/CraftingController.cs
+wget -P rust_files/oxide/plugins/ https://umod.org/plugins/CraftingController.cs
 
-wget https://umod.org/plugins/BetterLoot.cs -O rust_files/oxide/plugins/BetterLoot.cs
+wget -P rust_files/oxide/plugins/ https://umod.org/plugins/BetterLoot.cs
