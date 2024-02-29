@@ -1748,7 +1748,7 @@
       "defaultskinid": 0
     },
     "industrial.crafter": {
-      "canCraft": true,
+      "canCraft": false,
       "canResearch": true,
       "useCrafteRateMultiplier": true,
       "craftTime": 30.0,
